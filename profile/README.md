@@ -1,217 +1,31 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Dobot-Edu/.github/main/assets/dobot-logo.png"
-     alt="DOBOT"
-     width="260">
-
-# DOBOT Education
-
-### Open Robotics · Embodied AI · Education
-
-Open-source projects, development tools, and application examples  
-for DOBOT robotics education and embodied intelligence.
-
-[Official Website](https://www.dobot-robots.com/) ·
-[Repositories](https://github.com/Dobot-Edu?tab=repositories)
-
-</div>
-
----
-
-## About DOBOT Education
-
-DOBOT Education provides open-source robotics projects for developers,
-researchers, teachers, and students.
-
-Our projects cover robot development, embodied AI, teleoperation,
-robot learning, quadruped applications, perception, control, and
-education-oriented robotic applications.
-
-The goal of this organization is to provide reusable and easy-to-deploy
-robotics resources for research, education, and application development.
-
----
-
-# Open Source Projects
-
-| Category | Project | Description |
-| :--- | :--- | :--- |
-| **Embodied AI** | [X-Trainer-Pi0.5-JAX](https://github.com/Dobot-Edu/X-Trainer-Pi0.5-JAX) | Training and deployment framework for embodied intelligence based on π0.5 and JAX. |
-| **Data Collection** | [X-Trainer-Data-Teleoperation-UI](https://github.com/Dobot-Edu/X-Trainer-Data-Teleoperation-UI) | Teleoperation user interface for X-Trainer robotic data collection. |
-| **Quadruped Robot** | [dobot_quad_integrated](https://github.com/Dobot-Edu/dobot_quad_integrated) | Integrated application framework and examples for DOBOT quadruped robots. |
-|  | [dobot_quad_balance_control](https://github.com/Dobot-Edu/dobot_quad_balance_control) | Balance control application for DOBOT quadruped robots. |
-|  | [dobot_quad_voice_control](https://github.com/Dobot-Edu/dobot_quad_voice_control) | Voice interaction and voice-controlled motion application for DOBOT quadruped robots. |
-|  | [dobot_quad_safety_guard](https://github.com/Dobot-Edu/dobot_quad_safety_guard) | Safety perception and protection application for DOBOT quadruped robots. |
-
----
-
-## 🤖 Robot Platforms
-
-DOBOT Education open-source projects are designed for robotics research,
-education, and application development across multiple robot platforms.
-
-| Platform | Applications |
-| :--- | :--- |
-| **Collaborative Robots** | Manipulation, vision, AI, ROS 2, teaching and research |
-| **Desktop Robots** | AI education, vision, manipulation and robot learning |
-| **Quadruped Robots** | Locomotion, navigation, perception, voice interaction and autonomous applications |
-| **Embodied AI Platforms** | Data collection, imitation learning, VLA training and deployment |
-
----
-
-## 🧠 Embodied AI
-
-Projects for robot learning and embodied intelligence.
-
-| Project | Description |
-| :--- | :--- |
-| [X-Trainer-Pi0.5-JAX](https://github.com/Dobot-Edu/X-Trainer-Pi0.5-JAX) | Training and deployment framework for Vision-Language-Action robotic policies. |
-| [X-Trainer-Data-Teleoperation-UI](https://github.com/Dobot-Edu/X-Trainer-Data-Teleoperation-UI) | Teleoperation interface for collecting robot demonstration datasets. |
-
-Future projects in this category may include:
-
-- Vision-Language-Action (VLA)
-- Imitation Learning
-- Robot Data Collection
-- Multimodal Manipulation
-- General Robot Policies
-- Sim-to-Real
-
----
-
-## 🦾 Manipulation
-
-Open-source applications for DOBOT robotic arms.
-
-Projects in this category focus on:
-
-- Pick and Place
-- Vision-Guided Manipulation
-- Object Sorting
-- 3D Bin Picking
-- Hand-Eye Calibration
-- Visual Servoing
-- Tabletop Manipulation
-- Industrial Manipulation
-- AI-based Robot Manipulation
-
-> More open-source manipulation projects are coming soon.
-
----
-
-## 👁️ Vision & Perception
-
-Robot perception and vision applications.
-
-Projects in this category may include:
-
-- 2D Vision
-- 3D Vision
-- RGB-D Perception
-- Object Detection
-- Object Segmentation
-- Pose Estimation
-- Point Cloud Processing
-- Hand-Eye Calibration
-- Vision-Guided Grasping
-
-> More open-source vision projects are coming soon.
-
----
-
-## 🐕 Quadruped Robot
-
-Open-source applications for DOBOT quadruped robots.
-
-| Project | Description |
-| :--- | :--- |
-| [dobot_quad_integrated](https://github.com/Dobot-Edu/dobot_quad_integrated) | Integrated application and development examples for DOBOT quadruped robots. |
-| [dobot_quad_balance_control](https://github.com/Dobot-Edu/dobot_quad_balance_control) | Robot balance and motion control application. |
-| [dobot_quad_voice_control](https://github.com/Dobot-Edu/dobot_quad_voice_control) | Voice interaction and intelligent motion control. |
-| [dobot_quad_safety_guard](https://github.com/Dobot-Edu/dobot_quad_safety_guard) | Safety perception and robot protection application. |
-
-Application areas include:
-
-- Voice Interaction
-- Autonomous Navigation
-- Obstacle Avoidance
-- Terrain Adaptation
-- Intelligent Perception
-- Safety Protection
-- AI Agent Integration
-
----
-
-## 🛠️ Developer Resources
-
-Our open-source ecosystem is being continuously expanded to provide:
-
-| Resource | Description |
-| :--- | :--- |
-| **SDK** | Robot control and secondary development interfaces |
-| **ROS / ROS 2** | Robot integration with the ROS ecosystem |
-| **Simulation** | Robot simulation and algorithm verification |
-| **Vision** | 2D / 3D robot vision development |
-| **AI** | Embodied AI and robot learning |
-| **Application Demos** | Reusable robotics application examples |
-| **Education** | Teaching examples and experimental projects |
-
----
-
-## 🎓 Education & Research
-
-DOBOT Education projects can be used for:
-
-- Robotics teaching
-- Artificial intelligence education
-- Computer vision
-- Robot motion planning
-- Autonomous navigation
-- Embodied intelligence
-- Vision-Language-Action research
-- Robot learning
-- Human-robot interaction
-- Industrial robotics education
-
----
-
-## 🚀 Getting Started
-
-Choose a project from the tables above and follow the README in the
-corresponding repository.
-
-Each project provides its own:
-
-- Hardware requirements
-- Software environment
-- Installation guide
-- Configuration instructions
-- Quick start
-- Demo examples
-
----
-
-## 🤝 Contributing
-
-Contributions, issues, and suggestions are welcome.
-
-If you encounter a problem while using a project, please submit an
-Issue in the corresponding repository.
-
----
-
-## 🔗 Links
-
-- [DOBOT Official Website](https://www.dobot-robots.com/)
-- [Dobot-Edu GitHub](https://github.com/Dobot-Edu)
-- [All Open Source Projects](https://github.com/Dobot-Edu?tab=repositories)
-
----
-
-<div align="center">
-
-### DOBOT Education
-
-**Open Robotics for Education, Research and Embodied Intelligence**
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dobot-Edu/.github/main/assets/dobot-logo.png"
+       alt="DOBOT"
+       width="300">
+</p>
+
+DOBOT Education focuses on open-source robotics for education, research, embodied intelligence, and robot application development.
+
+We provide open-source projects covering embodied AI, robot manipulation, humanoid and quadruped applications, reinforcement learning, simulation, and robot SDKs.
+
+## Open source projects
+
+| Title | Description | Stars | Forks |
+| --- | --- | --- | --- |
+| **Embodied AI** | [X-Trainer-Pi0.5-JAX](https://github.com/Dobot-Edu/X-Trainer-Pi0.5-JAX)<br>End-to-end Pi0.5 framework for the DOBOT X-Trainer dual-arm platform, covering teleoperation data collection, LeRobot dataset conversion, fine-tuning and real-robot inference. |  |  |
+|  | [Atom-Pi0.5-JAX](https://github.com/Dobot-Edu/Atom-Pi0.5-JAX)<br>Pi0.5 training and deployment framework for the DOBOT ATOM humanoid robot, supporting data conversion, fine-tuning, policy serving and real-robot inference. |  |  |
+|  | [X-trainer-tube](https://github.com/Dobot-Edu/X-trainer-tube)<br>Embodied AI tube insertion task for X-Trainer, with LeRobot, Isaac Sim / Isaac Lab and trained policy simulation evaluation. |  |  |
+| **Manipulation** | [Dobot_CRtrainer](https://github.com/Dobot-Edu/Dobot_CRtrainer)<br>VR teleoperation and LeRobot training framework for DOBOT CR5A, supporting dual-camera data collection, ACT / Pi0 / Pi0.5 training and real-robot inference. |  |  |
+|  | [X-Trainer-Data-Teleoperation-UI](https://github.com/Dobot-Edu/X-Trainer-Data-Teleoperation-UI)<br>Web-based dual-arm teleoperation, data recording, hardware configuration and policy inference platform for X-Trainer. |  |  |
+| **Humanoid Applications** | [shangchao-ATOM](https://github.com/Dobot-Edu/shangchao-ATOM)<br>ATOM-W supermarket manipulation demo using YOLO vision, DDS control and robotic grasping for object detection and sorting tasks. |  |  |
+|  | [light_detect-ATOMW](https://github.com/Dobot-Edu/light_detect-ATOMW)<br>ATOM-W autonomous inspection demo using dual RealSense cameras, OCR and closed-loop visual alignment for indicator detection and button operation. |  |  |
+|  | [LightDetect-ATOM](https://github.com/Dobot-Edu/LightDetect-ATOM)<br>ATOM-W vision application based on YOLO11 for indicator-light recognition, navigation, target detection and switch operation. |  |  |
+| **Quadruped Applications** | [dobot_quad_integrated](https://github.com/Dobot-Edu/dobot_quad_integrated)<br>Integrated ROS 2 demo combining voice control, depth-camera obstacle avoidance, IMU balance compensation, RViz visualization and audio feedback. |  |  |
+|  | [dobot_quad_voice_control](https://github.com/Dobot-Edu/dobot_quad_voice_control)<br>Voice interaction demo for DOBOT quadruped robots with speech recognition, intent parsing, robot action execution and audio feedback. |  |  |
+|  | [dobot_quad_balance_control](https://github.com/Dobot-Edu/dobot_quad_balance_control)<br>ROS 2 IMU-based roll and pitch balance compensation demo for DOBOT quadruped robots. |  |  |
+|  | [dobot_quad_safety_guard](https://github.com/Dobot-Edu/dobot_quad_safety_guard)<br>Bidirectional obstacle avoidance and safety perception demo using front and rear depth cameras, ROS 2 and RViz2. |  |  |
+| **Locomotion & Simulation** | [atom-locomotion-training](https://github.com/Dobot-Edu/atom-locomotion-training)<br>Reinforcement learning framework for DOBOT ATOM humanoid locomotion, supporting Isaac Gym training, PPO and MuJoCo Sim2Sim validation. |  |  |
+|  | [dobot_rover_simulation](https://github.com/Dobot-Edu/dobot_rover_simulation)<br>Reinforcement learning training and deployment framework for DOBOT quadruped robots, supporting Isaac Gym, MuJoCo Sim2Sim and Sim2Real deployment. |  |  |
+| **Robot SDK** | [dobot_atom_sdk](https://github.com/Dobot-Edu/dobot_atom_sdk)<br>Development SDK for the DOBOT ATOM robot platform. |  |  |
+
+For more products, documentation, software and robotics solutions, please visit the [DOBOT Official Website](https://www.dobot-robots.com/).
